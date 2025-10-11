@@ -1,6 +1,6 @@
-[📄10 Phases Project Documentation](https://docs.google.com/document/d/1uV7g89qieUz8R86fFCN1T8E1_AEw7-rb/edit?usp=drive_link&ouid=117473183611642989923&rtpof=true&sd=true)
+[📄10 Phases Project Documentation](https://docs.google.com/document/d/1z30R0RNNk0ooXa3OD8Exwr7eL0dMvm82/edit?usp=drive_link&ouid=106807076056670105237&rtpof=true&sd=true)
 
-[🎥 Projec Demo Video](https://drive.google.com/file/d/1QkibEtSMMZWqrD7WTUi2BJFWEimZj97x/view?usp=drive_link)
+[🎥 Projec Demo Video](https://drive.google.com/file/d/1Z_wgLJoXxAoB6AVmgFKEEwAexc0B-GjV/view?usp=sharing)
 
 
 
